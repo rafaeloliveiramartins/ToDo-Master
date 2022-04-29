@@ -1,0 +1,19 @@
+<mat-card>
+      <mat-card-title>Nova Tarefa</mat-card-title>
+      <form>
+          <mat-form-field>
+              <input matInput placeholder="Título da Tarefa"
+              [(ngModel)]="task.title" name="Título">
+          </mat-form-field>
+          <mat-form-field>
+            <input matInput placeholder="Descrição da Tarefa"
+            [(ngModel)]="task.text" name="Descrição">
+        </mat-form-field>
+      </form>
+<button mat-raised-button (click)="createTask()"  class="save">
+    <a>Salvar</a>
+ </button>
+ <button mat-raised-button (click)="cancel()" >
+  Cancelar
+</button>
+</mat-card>

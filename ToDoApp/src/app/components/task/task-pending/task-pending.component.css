@@ -1,0 +1,41 @@
+.action{
+    display: flex;
+}
+
+table {
+    width: 100%;
+}
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: flex;
+    }
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit > i {
+    color: #d9cd26;
+}
+
+.delete > i {
+    color: #e35e6b;
+}
+
+.icon{
+    padding-left: 5px
+    
+}
+
+.icon .check{
+    color: #d9cd26;
+    padding-left: 10px;
+    
+}
+.marcar{
+    padding-left: 10px
+}

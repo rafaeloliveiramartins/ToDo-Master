@@ -1,0 +1,20 @@
+<mat-card>
+    <mat-card-title>Excluir Tarefa</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Título da Tarefa"
+                [value]="task.title" name="Título" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Descrição da Tarefa"
+                [value]="task.text" name="Descrição" disabled>
+        </mat-form-field>
+    </form>
+    <button mat-raised-button (click)="deleteTask()" color="warn">
+        Excluir
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

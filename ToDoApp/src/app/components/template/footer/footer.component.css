@@ -1,0 +1,26 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+  
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .footer > span {
+    font-size: 1rem;
+    font-weight: 300;
+    align-items: center;
+  }
+  .header-git img {
+    /*Arrumar alinhamento footer da forma correta com flexbox*/
+    width: 30px;
+    height: auto;
+    padding-left: 10px;
+    margin: -9px;
+  
+  }
+  .header-git p:hover,
+  img:hover {
+    cursor: pointer;
+  }
+  
