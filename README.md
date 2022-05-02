@@ -60,11 +60,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: :iphone: Resultado Mobile
 
-<h1 align="center">
-    <img alt="Mobile Task" src="![Task](https://user-images.githubusercontent.com/28990763/166184552-686ffdbc-98e2-4284-8da1-9e4a439a6290.JPG)" width="300px">
-    <br>
-    <img alt="Mobile Detail" src="Detail.jpg" width="300px">
-</h1>
+
+   <div align="center">
+<img src="https://user-images.githubusercontent.com/28990763/166184552-686ffdbc-98e2-4284-8da1-9e4a439a6290.JPG" width="300px" />
+</div>
+  
+
 
 <a id="como-usar"></a>
 
