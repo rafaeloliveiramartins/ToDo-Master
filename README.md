@@ -63,6 +63,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
    <div align="center">
 <img src="https://user-images.githubusercontent.com/28990763/166184552-686ffdbc-98e2-4284-8da1-9e4a439a6290.JPG" width="300px" />
+    <br>
+<img src="https://user-images.githubusercontent.com/28990763/166185125-75be4ee4-4af0-496a-ad1a-f07fa2203206.JPG" width="300px" />
+   
 </div>
   
 
