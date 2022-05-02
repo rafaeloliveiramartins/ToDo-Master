@@ -55,7 +55,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Para o design da página foi utilizado o **[Angular Material Componentes](https://material.angular.io/components/categories)**;
 
 <h1 align="center">
-    <img alt="Web" src=".github/Video.gif" width="900px">
+    <img alt="Web" src="Video.gif" width="900px">
 </h1>
 
 ## :heavy_check_mark: :iphone: Resultado Mobile
