@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".logo-white.png">
+    <img alt="Logo" title="#logo" width="300px" src="logo-white.png">
     <br><br>
     <b>To Do List! Sua Tarefa em dia!</b>  
     <br>
